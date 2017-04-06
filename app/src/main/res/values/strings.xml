@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidCloud</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="parse_app_id">YOUR_APPLICATION_ID</string>
+    <string name="parse_client_key">YOUR_CLIENT_KEY</string>
+</resources>
